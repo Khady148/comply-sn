@@ -1,0 +1,19 @@
+# Configuration locale contenant les identifiants MySQL
+config/database.php
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+
+# Fichiers générés par Windows
+Thumbs.db
+desktop.ini
+
+# Dossiers des éditeurs
+.vscode/
+.idea/
+
+# Fichiers utilisateurs / uploads
+uploads/
